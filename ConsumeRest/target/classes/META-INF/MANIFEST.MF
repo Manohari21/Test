@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ConsumeRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: manohari.vellaisamy
+Implementation-Vendor-Id: com.perf
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ConsumeRest
+Created-By: Maven Integration for Eclipse
+
